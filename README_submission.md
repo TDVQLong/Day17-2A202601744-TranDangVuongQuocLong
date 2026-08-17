@@ -1,6 +1,6 @@
 # Báo Cáo Nộp Bài Lab 17 - Multi-Memory Agent với Zep
 
-**Họ và tên học viên:** Trần Đăng Vương Quốc Long  
+**Họ và tên học viên:** Trần Đặng Vương Quốc Long  
 **Mã sinh viên:** 2A202601744  
 
 ---
